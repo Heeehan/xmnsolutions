@@ -1,0 +1,163 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "The new\nGold Standard.",
+							"spans": [
+								{
+									"type": "em",
+									"start": 8,
+									"end": 22
+								}
+							]
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Introducing a new era of business transformation that leaves traditional solutions in the dust.",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"title",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "heading3",
+									"content": {
+										"text": "Porch"
+									}
+								}
+							]
+						}
+					],
+					[
+						"body",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "paragraph",
+									"content": {
+										"text": "Tempor cillum dolor incididunt. Deserunt laborum non dolor culpa."
+									}
+								}
+							]
+						}
+					],
+					[
+						"image",
+						{
+							"origin": {
+								"id": "main",
+								"url": "https://images.unsplash.com/photo-1600804931749-2da4ce26c869",
+								"width": 3199,
+								"height": 3199
+							},
+							"url": "https://images.unsplash.com/photo-1600804931749-2da4ce26c869",
+							"width": 3199,
+							"height": 3199,
+							"edit": {
+								"zoom": 1,
+								"crop": {
+									"x": 0,
+									"y": 0
+								},
+								"background": "transparent"
+							},
+							"credits": null,
+							"alt": null,
+							"__TYPE__": "ImageContent",
+							"thumbnails": {}
+						}
+					]
+				]
+			},
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"title",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "heading3",
+									"content": {
+										"text": "Lorem Ipsum",
+										"spans": []
+									},
+									"direction": "ltr"
+								}
+							]
+						}
+					],
+					[
+						"body",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "paragraph",
+									"content": {
+										"text": "Tempor cillum dolor incididunt. Deserunt laborum non dolor culpa.",
+										"spans": []
+									},
+									"direction": "ltr"
+								}
+							]
+						}
+					],
+					[
+						"image",
+						{
+							"__TYPE__": "ImageContent",
+							"url": "https://images.unsplash.com/photo-1614588876795-732335adcb48?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwyN3x8Y2l0cnVzJTIwZnJ1aXR8ZW58MHx8fHwxNzM1MTcyODQ2fDA&ixlib=rb-4.0.3&q=85",
+							"alt": "orange fruits on brown wooden shelf",
+							"origin": {
+								"id": "G6LPcuno1Ok",
+								"url": "https://images.unsplash.com/photo-1614588876795-732335adcb48?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwyN3x8Y2l0cnVzJTIwZnJ1aXR8ZW58MHx8fHwxNzM1MTcyODQ2fDA&ixlib=rb-4.0.3&q=85",
+								"width": 5733,
+								"height": 3801
+							},
+							"width": 5733,
+							"height": 3801,
+							"edit": {
+								"background": "transparent",
+								"zoom": 1,
+								"crop": {
+									"x": 0,
+									"y": 0
+								}
+							},
+							"thumbnails": {}
+						}
+					]
+				]
+			}
+		]
+	}
+]
